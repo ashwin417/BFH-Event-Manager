@@ -1,5 +1,5 @@
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
-Fashion Mart
+Fashion Deal
 This project was meant to create a shopping app using flutter.
 ## Team members
 1. R Ashwin https://github.com/ashwin417
