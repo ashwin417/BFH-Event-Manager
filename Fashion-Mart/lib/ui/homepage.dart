@@ -30,14 +30,14 @@ class _HomePageState extends State<HomePage> {
           child: Text(
             "FashMart",
             style: TextStyle(
-              fontSize: 28.0,
-              color: Colors.orange,
+              fontSize: 29.0,
+              color: Colors.red,
               fontWeight:FontWeight.bold,
             ),
           ),
         ),
         backgroundColor: Colors.white,
-        elevation: 2.0,
+        elevation: 2.5,
       ),
       body: Container(
         constraints: BoxConstraints.expand(),
